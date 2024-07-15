@@ -126,4 +126,4 @@ fit ran in: 26.31524682044983 sec
 Ran 1 test in 37.876s
 
 # Binder Badge
-Das Prjekt kann in Binder ausgeführt werden: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hienchipham197/DBE-Angleichungsmodul-Aufgabe2/HEAD)
+
