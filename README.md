@@ -127,3 +127,4 @@ Ran 1 test in 37.876s
 
 # Binder Badge
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OmarAfify10/ML-based-SW/HEAD)
