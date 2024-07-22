@@ -1,5 +1,5 @@
 
-# DBE-Angleichungsmodul-Aufgabe2
+# Aufgabe2
 
 # Ziele der Aufgabe:
 - Implementierung von ML basierten SW Systemen
