@@ -21,8 +21,7 @@ Um die Ausgabe in eine .txt-Datei zu exportieren, nutzen Sie den Befehl "python 
 [ausgabe.txt](https://github.com/hienchipham197/DBE-Angleichungsmodul-Aufgabe2/files/14343872/ausgabe.txt)
 
 MNIST: (70000, 784) (70000,)
-__init__ ran in: 6.67572021484375e-06 sec
-fit ran in: 25.985992193222046 sec
+
 
 Train Accuracy: 72.65166666666667 
 
